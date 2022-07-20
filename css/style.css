@@ -428,7 +428,7 @@ text-decoration: none;
   position: relative;
 }
 
-/* .rateus_section .heading_container {
+.rateus_section .heading_container {
   margin-bottom: 25px;
 }
 
@@ -484,8 +484,8 @@ text-decoration: none;
 }
 
 .rateus_section .form_container button:hover {
-  background-color: #0f5015;
-} */
+  background-color: #7c6413;
+} 
 
 
 
